@@ -4,3 +4,5 @@ def dodaj():
 	b = int(input())
 	print("Wynik", a+b)
 	print("Koniec")
+	
+print("qwerty")
